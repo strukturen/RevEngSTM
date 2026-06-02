@@ -1,6 +1,6 @@
 # Reverse Engineering Strut-and-tie Models for Assessing Reinforced Concrete Structures
 
-This repository contains the code for the journal paper <b>"Reverse engineering strut-and-tie models for assessing reinforced concrete structures"</b> published in <i>Structural Concrete</i> and authored by Karin Yu and Walter Kaufmann, available under https://doi.org/10.1002/suco.70637. 
+This repository contains the code for the journal paper <b>"Reverse engineering strut-and-tie models for assessing reinforced concrete structures"</b> published in <i>Structural Concrete</i> and authored by Karin Yu and Walter Kaufmann from ETH Zürich, available under https://doi.org/10.1002/suco.70637. 
 
 The user should be familiar with strut-and-tie models both for structural design and assessment. The responsibility of the results lies with the user.
 
